@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+logs/
+
+# Flask
+instance/
+.env
+
+# Vue.js
+/node_modules
+/dist
+
+# App
+/frontend/node_modules
+/backend/migrations
+/backend/*.db
